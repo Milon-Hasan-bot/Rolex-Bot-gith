@@ -12,8 +12,8 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "পেতনী  𝐁𝐎𝐓",
-  "prefix": "+",
+  "nickNameBot": "✿ • ᭄ꦿQᥙᥱ֟፝ᥱn࿐ • ᴳᴵᴿᴸ࿐✿",
+  "prefix": ".",
   "api": "https://api.noobs-api.rf.gd/dipto",
   "approval": false,
   "reactBy": {
@@ -31,14 +31,14 @@
     "ignoreCommand": []
   },
   "adminBot": [
-       "61579624827164",
-		"",
+       "61586540721576",
+		"61585985686316",
 		""
   ],
   "mainAdmin": [
-    "100009987932864",
+    "61586540721576",
 		"",
-		"61579624827164"
+		"61585985686316"
   ],
   "whiteListMode": {
     "enable": false,
