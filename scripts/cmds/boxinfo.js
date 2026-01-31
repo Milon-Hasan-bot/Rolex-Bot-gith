@@ -69,7 +69,7 @@ ${adminNames.length > 0
 ├ ➤ Emoji: ${threadInfo.emoji || 'None'}
 ├ ➤ Messages: ${threadInfo.messageCount || 0}
 │
-└─── ✨ 𝗕𝗔𝗗𝗛𝗢𝗡 ✨ ───
+└─── ✨ 𝗠𝗜𝗟𝗢𝗡 ✨ ───
       `.trim();
 
       
